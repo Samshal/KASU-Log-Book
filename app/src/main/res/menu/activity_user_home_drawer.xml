@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/nav_profile" android:icon="@android:drawable/ic_menu_camera"
+            android:title="Profile" />
+        <item android:id="@+id/nav_progress_report" android:icon="@android:drawable/ic_menu_gallery"
+            android:title="Weekly Progress Report"/>
+        <item android:id="@+id/nav_assessment_form" android:icon="@android:drawable/ic_menu_slideshow"
+            android:title="Industrial Assessment Form" />
+    </group>
+
+    <item android:title="Documents">
+        <menu>
+            <item android:id="@+id/nav_share" android:icon="@android:drawable/ic_menu_share"
+                android:title="Training Log Book" />
+            <item android:id="@+id/nav_code_of_conduct" android:icon="@android:drawable/ic_menu_send"
+                android:title="Code of Conduct for SIWES Students" />
+            <item android:id="@+id/nav_s" android:icon="@android:drawable/ic_menu_send"
+                android:title="SIWES Certification" />
+            <item android:id="@+id/nav_sensd" android:icon="@android:drawable/ic_menu_send"
+                android:title="About this app" />
+
+        </menu>
+    </item>
+
+</menu>

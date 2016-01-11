@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Log Book Application</string>
+    <string name="action_settings">Settings</string>
+    <string name="home_info_text">Log booking like never ever before. It\'s now easy to document the most important moments of internship in a fun way without worrying about paperwork!</string>
+    <string name="home_more_info_text">For Lecturers, For Industrial Supervisors, For you!
+A Computer Science Project, From Kaduna State University</string>
+    <string name="title_activity_user_home">user_home</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="title_activity_daily_attendance">daily_attendance</string>
+    <string name="title_activity_weekly_progress_report">weekly_progress_report</string>
+    <string name="title_activity_code_of_conduct">Code Of Conduct</string>
+    <string name="large_text">
+        "STUDENTS INDUSTRIAL WORK EXPERIENCE SCHEME (SIWES) CODE OF CONDUCT FOR STUDENTS ON SIWES.\n\n"
+
+        "Students are to obey all rules and regulations of th organization to which they are attached "
+        "for practical experience. Defaults should be reported by organization to the institution promptly."
+        "Students dressing at all times must be modest, net and in good. It should also conform to the "
+        "dictates of their profession where applicable.\n\n"
+
+        "Students are to be punctual for duty every working day. They are to resume and close from work "
+        "at the time officially scheduled by the organization. They are to sign a daily entry exit "
+        "attendance register throughout the period of attachment.\n\n"
+
+        "Absence from duty for cogent reasons must be properly documented and approved by the Industry Based Supervisor ".
+        "Otherwise absence without cogent reasons and/or proper approval will attract appropriate disciplinary action.\n\n"
+
+        "The organization reserves the right to reject or send student back to the university in "
+        "case of any misconduct or act(s)incompatible with its objectives, that of the SIWES, or the Kaduna State University\n\n"
+
+        "All forms given out to the students must be filled and submitted to the appropriate office(s) at the appropriate "
+        "times dring the SIWES programme.\n\n"
+
+        "Students must fill their logbooks on schedule and submit to their industry-based supervisor at the close of the work "
+        "every Friday for the duration of attachment. It is the student's responsibility to ensure logbooks are filled as "
+        "appropriate. Studnets must weeks three typed and appropriately bound copies of their SIWES Report two weks after returning "
+        "to the University at the end of the perid of attachment.\n\n"
+
+        "Any student found to have contravened any of the items listed above and contained in the job guidelines, will be disciplined "
+        "appropriately."
+
+
+    </string>
+</resources>
